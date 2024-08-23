@@ -3,13 +3,13 @@
 # It's pleasure to see you here,
 
 
-<img align="center"  src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="github banner">
+<img align="center"  src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="github banner">
 
 -------
 
 ## Who am I?
 
-Hi 👋, I’m @Dulhara Kaushalya
+Hi 👋, I’m @Senuvi Layathma
 
 Energetic and passionate Undergraduate student towards improving knowledge and skills in IT industry. Looking forward for opportunities to enhance my capabilities. Trying to do great thing..
 
