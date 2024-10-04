@@ -9,6 +9,14 @@
 
 ## Who am I?
 
+
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer+Student;Undergraduate+Student+at+SLIIT;A+passionate+software+developer;UIUX+Designer;Always+learning+new+things" alt="Typing SVG"></a>
+</p>
+
+
+-------
+
+
 Hi 👋, I’m @Senuvi Layathma
 
 Energetic and passionate Undergraduate student towards improving knowledge and skills in IT industry. Looking forward for opportunities to enhance my capabilities. Trying to do great thing..
