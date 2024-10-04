@@ -65,8 +65,8 @@ Energetic and passionate Undergraduate student towards improving knowledge and s
 </p>
  <p align="left" >
       <img
-          src="https://github-profile-trophy.vercel.app/?username=dulhara79"
-          alt="dulhara79"
+          src="https://github-profile-trophy.vercel.app/?username=SENUVI20"
+          alt="SENUVI20"
       />
     </p>
 
